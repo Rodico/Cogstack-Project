@@ -2,6 +2,11 @@ data/
 models/
 *.zip
 venv/
+venv311/
 .env
 __pycache__/
 .ipynb_checkpoints/
+smoking_unpacked/
+trainer_media/
+outputs/mct_dataset.csv
+outputs/_mentions_cache.csv

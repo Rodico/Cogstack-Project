@@ -1,0 +1,996 @@
+patient_id,smoking_status,confidence,source_doc_count,notes
+82091,unknown,none,0,no smoking evidence found
+21585,unknown,none,0,no smoking evidence found
+2707,unknown,none,0,no smoking evidence found
+5192,unknown,none,0,no smoking evidence found
+75575,unknown,none,0,no smoking evidence found
+10235,unknown,none,0,no smoking evidence found
+5043,unknown,none,0,no smoking evidence found
+7379,unknown,none,0,no smoking evidence found
+17291,unknown,none,0,no smoking evidence found
+6996,unknown,none,0,no smoking evidence found
+19233,unknown,none,0,no smoking evidence found
+22504,unknown,none,0,no smoking evidence found
+3868,unknown,none,0,no smoking evidence found
+4467,unknown,none,0,no smoking evidence found
+4373,unknown,none,0,no smoking evidence found
+21470,unknown,none,0,no smoking evidence found
+5774,unknown,none,0,no smoking evidence found
+16127,unknown,none,0,no smoking evidence found
+22001,unknown,none,0,no smoking evidence found
+86921,unknown,none,0,no smoking evidence found
+60477,unknown,none,0,no smoking evidence found
+10487,unknown,none,0,no smoking evidence found
+16256,unknown,none,0,no smoking evidence found
+25464,unknown,none,0,no smoking evidence found
+14149,unknown,none,0,no smoking evidence found
+82,unknown,none,0,no smoking evidence found
+71297,never,high,1,note
+77732,unknown,none,0,no smoking evidence found
+23304,unknown,none,0,no smoking evidence found
+19740,unknown,none,0,no smoking evidence found
+53775,unknown,none,0,no smoking evidence found
+8496,unknown,none,0,no smoking evidence found
+8638,unknown,none,0,no smoking evidence found
+4321,unknown,none,0,no smoking evidence found
+10135,unknown,none,0,no smoking evidence found
+3133,unknown,none,0,no smoking evidence found
+32118,unknown,none,0,no smoking evidence found
+51462,never,high,1,note+icd
+54826,unknown,none,0,no smoking evidence found
+71586,unknown,none,0,no smoking evidence found
+25448,unknown,none,0,no smoking evidence found
+28236,former,high,1,icd_only
+89205,unknown,none,0,no smoking evidence found
+87263,unknown,none,0,no smoking evidence found
+11822,unknown,none,0,no smoking evidence found
+19284,unknown,none,0,no smoking evidence found
+30351,unknown,none,0,no smoking evidence found
+28378,never,high,1,note
+27565,unknown,none,0,no smoking evidence found
+9743,unknown,none,0,no smoking evidence found
+9890,unknown,none,0,no smoking evidence found
+24573,former,high,1,icd_only
+59388,unknown,none,0,no smoking evidence found
+27537,unknown,none,0,no smoking evidence found
+11519,unknown,none,0,no smoking evidence found
+18684,unknown,none,0,no smoking evidence found
+82970,unknown,none,0,no smoking evidence found
+60180,unknown,none,0,no smoking evidence found
+12194,unknown,none,0,no smoking evidence found
+96250,unknown,none,0,no smoking evidence found
+31091,unknown,none,0,no smoking evidence found
+11863,unknown,none,0,no smoking evidence found
+15793,unknown,none,0,no smoking evidence found
+32119,unknown,none,0,no smoking evidence found
+81114,unknown,none,0,no smoking evidence found
+4088,unknown,none,0,no smoking evidence found
+5157,unknown,none,0,no smoking evidence found
+74545,unknown,none,0,no smoking evidence found
+22268,unknown,none,0,no smoking evidence found
+3573,unknown,none,0,no smoking evidence found
+18378,unknown,none,0,no smoking evidence found
+24870,unknown,none,0,no smoking evidence found
+72969,unknown,none,0,no smoking evidence found
+31314,unknown,none,0,no smoking evidence found
+15695,unknown,none,0,no smoking evidence found
+274,unknown,none,0,no smoking evidence found
+17194,unknown,none,0,no smoking evidence found
+31907,unknown,none,0,no smoking evidence found
+9287,unknown,none,0,no smoking evidence found
+1179,unknown,none,0,no smoking evidence found
+15162,unknown,none,0,no smoking evidence found
+93517,unknown,none,0,no smoking evidence found
+32776,unknown,none,0,no smoking evidence found
+16911,unknown,none,0,no smoking evidence found
+20264,unknown,none,0,no smoking evidence found
+17213,unknown,none,0,no smoking evidence found
+11784,unknown,none,0,no smoking evidence found
+4329,unknown,none,0,no smoking evidence found
+19335,unknown,none,0,no smoking evidence found
+25390,unknown,none,0,no smoking evidence found
+27231,unknown,none,0,no smoking evidence found
+8186,unknown,none,0,no smoking evidence found
+21548,former,high,1,icd_only
+31682,unknown,none,0,no smoking evidence found
+22710,unknown,none,0,no smoking evidence found
+24694,unknown,none,0,no smoking evidence found
+17545,unknown,none,0,no smoking evidence found
+22554,unknown,none,0,no smoking evidence found
+5786,unknown,none,0,no smoking evidence found
+18500,unknown,none,0,no smoking evidence found
+11494,unknown,none,0,no smoking evidence found
+15682,unknown,none,0,no smoking evidence found
+4213,unknown,none,0,no smoking evidence found
+61417,unknown,none,0,no smoking evidence found
+16187,unknown,none,0,no smoking evidence found
+87174,never,high,1,note
+47684,unknown,none,0,no smoking evidence found
+24563,unknown,none,0,no smoking evidence found
+17820,unknown,none,0,no smoking evidence found
+7013,unknown,none,0,no smoking evidence found
+21803,unknown,none,0,no smoking evidence found
+20211,unknown,none,0,no smoking evidence found
+9302,unknown,none,0,no smoking evidence found
+4056,unknown,none,0,no smoking evidence found
+5791,unknown,none,0,no smoking evidence found
+23719,unknown,none,0,no smoking evidence found
+16248,unknown,none,0,no smoking evidence found
+26475,unknown,none,0,no smoking evidence found
+27443,unknown,none,0,no smoking evidence found
+11769,unknown,none,0,no smoking evidence found
+6325,unknown,none,0,no smoking evidence found
+9363,unknown,none,0,no smoking evidence found
+256,unknown,none,0,no smoking evidence found
+17336,unknown,none,0,no smoking evidence found
+23541,unknown,none,0,no smoking evidence found
+11074,unknown,none,0,no smoking evidence found
+2046,unknown,none,0,no smoking evidence found
+17049,unknown,none,0,no smoking evidence found
+17076,unknown,none,0,no smoking evidence found
+813,unknown,none,0,no smoking evidence found
+28135,unknown,none,0,no smoking evidence found
+56267,unknown,none,0,no smoking evidence found
+5975,unknown,none,0,no smoking evidence found
+27072,unknown,none,0,no smoking evidence found
+17362,unknown,none,0,no smoking evidence found
+10458,unknown,none,0,no smoking evidence found
+943,unknown,none,0,no smoking evidence found
+4488,unknown,none,0,no smoking evidence found
+8593,unknown,none,0,no smoking evidence found
+6213,unknown,none,0,no smoking evidence found
+5658,unknown,none,0,no smoking evidence found
+3504,unknown,none,0,no smoking evidence found
+19919,unknown,none,0,no smoking evidence found
+11969,unknown,none,0,no smoking evidence found
+14877,unknown,none,0,no smoking evidence found
+25392,unknown,none,0,no smoking evidence found
+27321,unknown,none,0,no smoking evidence found
+15922,unknown,none,0,no smoking evidence found
+30530,unknown,none,0,no smoking evidence found
+43746,unknown,none,0,no smoking evidence found
+46123,unknown,none,0,no smoking evidence found
+22505,unknown,none,0,no smoking evidence found
+48388,unknown,none,0,no smoking evidence found
+8398,unknown,none,0,no smoking evidence found
+1632,unknown,none,0,no smoking evidence found
+18011,unknown,none,0,no smoking evidence found
+28939,unknown,none,0,no smoking evidence found
+12353,unknown,none,0,no smoking evidence found
+77275,unknown,none,0,no smoking evidence found
+6383,unknown,none,0,no smoking evidence found
+23834,unknown,none,0,no smoking evidence found
+2527,unknown,none,0,no smoking evidence found
+94609,unknown,none,0,no smoking evidence found
+12762,unknown,none,0,no smoking evidence found
+58732,never,high,1,note
+3490,unknown,none,0,no smoking evidence found
+27111,unknown,none,0,no smoking evidence found
+19029,unknown,none,0,no smoking evidence found
+25854,unknown,none,0,no smoking evidence found
+18067,unknown,none,0,no smoking evidence found
+10751,unknown,none,0,no smoking evidence found
+11481,unknown,none,0,no smoking evidence found
+1662,unknown,none,0,no smoking evidence found
+62774,unknown,none,0,no smoking evidence found
+22396,unknown,none,0,no smoking evidence found
+19642,unknown,none,0,no smoking evidence found
+2117,unknown,none,0,no smoking evidence found
+22920,unknown,none,0,no smoking evidence found
+16726,unknown,none,0,no smoking evidence found
+80628,current,high,1,icd_only
+97714,unknown,none,0,no smoking evidence found
+90310,unknown,none,0,no smoking evidence found
+25353,unknown,none,0,no smoking evidence found
+1793,unknown,none,0,no smoking evidence found
+11861,unknown,none,0,no smoking evidence found
+28888,unknown,none,0,no smoking evidence found
+11098,unknown,none,0,no smoking evidence found
+16535,unknown,none,0,no smoking evidence found
+11485,unknown,none,0,no smoking evidence found
+41782,unknown,none,0,no smoking evidence found
+534,unknown,none,0,no smoking evidence found
+9889,never,high,1,note
+4468,unknown,none,0,no smoking evidence found
+87585,unknown,none,0,no smoking evidence found
+8896,unknown,none,0,no smoking evidence found
+11986,unknown,none,0,no smoking evidence found
+49971,unknown,none,0,no smoking evidence found
+4059,unknown,none,0,no smoking evidence found
+313,unknown,none,0,no smoking evidence found
+16584,unknown,none,0,no smoking evidence found
+58240,never,high,1,note
+32077,former,high,1,note+icd
+80594,unknown,none,0,no smoking evidence found
+60707,current,high,1,icd_only
+13778,unknown,none,0,no smoking evidence found
+8426,unknown,none,0,no smoking evidence found
+51597,unknown,none,0,no smoking evidence found
+32746,never,high,1,note
+6901,current,high,1,note
+48059,former,high,1,note
+3866,current,high,1,note
+19184,current,high,1,note
+27463,current,high,1,note
+83514,unknown,none,0,no smoking evidence found
+73440,never,high,1,note
+96137,unknown,none,0,no smoking evidence found
+88733,former,high,2,note+icd
+11764,former,high,1,note
+11559,unknown,none,0,no smoking evidence found
+45410,former,high,1,note+icd
+15506,current,high,1,note
+15906,current,high,1,note
+16972,current,high,1,note
+46251,unknown,none,0,no smoking evidence found
+18965,current,high,1,icd_only
+84966,unknown,none,0,no smoking evidence found
+4520,current,high,1,note
+29660,never,high,1,note
+56115,current,high,1,note
+54393,former,high,1,icd_only
+25490,never,high,1,note
+29483,former,high,1,note+icd
+16350,current,high,1,note
+2385,current,high,1,note
+31766,current,high,1,note
+29744,current,high,2,note
+75305,current,high,1,note+icd
+27826,former,high,1,note
+17541,unknown,none,0,no smoking evidence found
+31934,unknown,none,0,no smoking evidence found
+16976,unknown,none,0,no smoking evidence found
+14860,current,high,1,note+icd
+27037,unknown,none,0,no smoking evidence found
+67365,former,high,1,note
+60842,current,high,1,note+icd
+2467,former,high,1,icd_only
+24817,never,high,1,note
+30540,former,high,1,icd_only
+28291,current,high,1,note
+74463,current,high,1,note
+18735,never,high,1,note
+31782,unknown,none,0,no smoking evidence found
+9165,former,high,1,note
+29878,current,high,1,note+icd
+91103,unknown,none,0,no smoking evidence found
+18468,unknown,none,0,no smoking evidence found
+17589,current,high,1,note
+66079,unknown,none,0,no smoking evidence found
+30243,current,high,1,note
+96705,unknown,none,0,no smoking evidence found
+69787,current,high,1,note
+3265,current,high,1,note+icd
+60115,former,high,1,note
+17797,never,high,1,note
+24897,former,high,1,note
+10884,unknown,none,0,no smoking evidence found
+93265,former,high,1,note
+94307,unknown,none,0,no smoking evidence found
+50409,unknown,none,0,no smoking evidence found
+98669,current,high,1,note+icd
+14898,unknown,none,0,no smoking evidence found
+71493,former,high,1,note
+31569,current,high,1,note+icd
+58508,current,high,1,icd_only
+86089,unknown,none,0,no smoking evidence found
+4308,current,high,1,note
+29991,current,high,1,note
+55523,current,high,1,note
+55193,unknown,none,0,no smoking evidence found
+24374,never,high,1,note
+69225,former,high,1,icd_only
+66405,unknown,none,0,no smoking evidence found
+78565,never,high,1,note
+41754,unknown,none,0,no smoking evidence found
+60595,unknown,none,0,no smoking evidence found
+64172,unknown,none,0,no smoking evidence found
+49380,former,high,1,note
+43431,never,high,1,note
+3393,unknown,none,0,no smoking evidence found
+48692,unknown,none,0,no smoking evidence found
+30640,unknown,none,0,no smoking evidence found
+26800,current,high,1,note
+41143,former,high,1,note+icd
+28701,unknown,none,0,no smoking evidence found
+84057,never,high,1,note
+25332,unknown,none,0,no smoking evidence found
+3084,current,high,1,note
+14160,current,high,1,note
+41525,current,high,1,note
+12629,current,high,1,note
+15069,current,high,1,note
+49634,unknown,none,0,no smoking evidence found
+55973,never,high,1,note
+51027,current,high,1,note
+97264,unknown,none,0,no smoking evidence found
+26516,former,high,1,note
+86279,current,high,1,note
+41494,unknown,none,0,no smoking evidence found
+31007,unknown,none,0,no smoking evidence found
+67984,current,high,1,note+icd
+15861,former,high,1,note
+91018,never,high,1,note
+4579,unknown,none,0,no smoking evidence found
+89290,former,high,1,note+icd
+27732,unknown,none,0,no smoking evidence found
+79880,unknown,none,0,no smoking evidence found
+56334,unknown,none,0,no smoking evidence found
+7275,current,high,1,note
+87331,current,high,1,icd_only
+93435,current,high,1,note
+2907,former,high,1,note
+18477,current,high,1,note
+89797,unknown,none,0,no smoking evidence found
+59138,unknown,none,0,no smoking evidence found
+70191,unknown,none,0,no smoking evidence found
+31871,unknown,none,0,no smoking evidence found
+55799,never,high,1,note
+18215,current,high,1,note+icd
+18590,never,high,1,note+icd
+25809,unknown,none,0,no smoking evidence found
+63292,current,high,1,note
+11158,current,high,1,note
+26212,never,high,1,note
+27393,current,high,1,note
+89964,current,high,1,note+icd
+13314,unknown,none,0,no smoking evidence found
+13622,unknown,none,0,no smoking evidence found
+24436,unknown,none,0,no smoking evidence found
+8803,unknown,none,0,no smoking evidence found
+46011,current,high,1,icd_only
+30932,current,high,1,note
+80237,former,high,1,note
+79996,current,high,1,note+icd
+49951,unknown,none,0,no smoking evidence found
+10796,current,high,1,note
+13123,never,high,1,note
+7577,current,high,1,note+icd
+23309,current,high,1,note
+5412,unknown,none,0,no smoking evidence found
+9409,current,high,1,note
+7353,current,high,1,note
+13960,current,high,1,note
+82205,current,high,1,note
+922,unknown,none,0,no smoking evidence found
+94665,current,high,1,note+icd
+840,unknown,none,0,no smoking evidence found
+77690,unknown,none,0,no smoking evidence found
+24898,former,high,1,note
+24622,never,high,1,note
+49480,never,high,1,note
+76454,current,high,1,note
+8588,current,high,1,note
+23933,current,high,1,note
+54348,unknown,none,0,no smoking evidence found
+1301,current,high,1,note
+7870,current,high,1,note
+18511,current,high,1,note
+2343,current,high,1,note+icd
+43520,never,high,1,note
+80106,unknown,none,0,no smoking evidence found
+70592,former,high,1,icd_only
+3860,former,high,1,note
+96071,unknown,none,0,no smoking evidence found
+62389,unknown,none,0,no smoking evidence found
+23252,unknown,none,0,no smoking evidence found
+88856,never,high,1,note
+71473,never,high,1,note
+19445,unknown,none,0,no smoking evidence found
+23675,current,high,1,note+icd
+53314,never,high,1,note
+48730,never,high,1,note+icd
+62559,unknown,none,0,no smoking evidence found
+26839,current,high,1,note
+30869,never,high,1,note
+10666,former,high,1,note
+96838,current,high,1,note
+4325,current,high,1,note
+45995,never,high,1,note
+42035,never,high,1,note
+50447,current,high,1,note+icd
+65502,unknown,none,0,no smoking evidence found
+88003,never,high,1,note
+8370,unknown,none,0,no smoking evidence found
+24990,current,high,1,note+icd
+44812,never,high,1,note
+40875,unknown,none,0,no smoking evidence found
+28491,never,high,1,note
+60228,current,high,1,note
+98039,current,high,1,note+icd
+75752,current,high,1,note
+70123,unknown,none,0,no smoking evidence found
+56340,current,high,1,note+icd
+9677,current,high,1,note
+84583,unknown,none,0,no smoking evidence found
+6411,unknown,none,0,no smoking evidence found
+67042,unknown,none,0,no smoking evidence found
+8525,former,high,1,note
+20804,never,high,1,note
+7853,unknown,none,0,no smoking evidence found
+27471,unknown,none,0,no smoking evidence found
+29823,current,high,1,note
+1633,current,high,1,note
+10113,current,high,1,note
+23325,current,high,1,note
+3052,current,high,1,note
+11378,unknown,none,0,no smoking evidence found
+45684,former,high,1,note+icd
+49796,unknown,none,0,no smoking evidence found
+22277,unknown,none,0,no smoking evidence found
+3528,unknown,none,0,no smoking evidence found
+42477,unknown,none,0,no smoking evidence found
+6671,current,high,1,note
+27151,never,high,1,note
+67158,current,high,1,note+icd
+58586,unknown,none,0,no smoking evidence found
+84745,unknown,none,0,no smoking evidence found
+7401,never,high,1,note
+79051,never,high,1,note
+22026,unknown,none,0,no smoking evidence found
+14804,current,high,1,note
+79224,unknown,none,0,no smoking evidence found
+65973,unknown,none,0,no smoking evidence found
+17735,never,high,1,note
+92644,current,high,1,note
+22872,former,high,1,note
+63572,unknown,none,0,no smoking evidence found
+84421,current,high,1,note+icd
+13303,never,high,1,note
+14524,unknown,none,0,no smoking evidence found
+14764,unknown,none,0,no smoking evidence found
+5772,former,high,1,note
+84890,current,high,1,note+icd
+19625,unknown,none,0,no smoking evidence found
+62745,unknown,none,0,no smoking evidence found
+17718,never,high,1,note
+30408,current,high,1,note
+17591,former,high,1,note+icd
+17990,current,high,1,note+icd
+21452,former,high,1,note
+76126,never,high,1,note
+16947,current,high,1,note
+24439,unknown,none,0,no smoking evidence found
+93360,current,high,1,note
+19646,current,high,1,note
+32244,current,high,1,note
+97902,unknown,none,0,no smoking evidence found
+23720,never,high,1,note
+99510,unknown,none,0,no smoking evidence found
+3522,never,high,1,note
+30710,current,high,1,note
+90455,current,high,1,note
+18839,unknown,none,0,no smoking evidence found
+11638,unknown,none,0,no smoking evidence found
+27920,former,high,1,note
+85673,unknown,none,0,no smoking evidence found
+10958,never,high,1,note
+9856,never,high,1,note
+26006,unknown,none,0,no smoking evidence found
+45646,never,high,1,note
+32775,unknown,none,0,no smoking evidence found
+29272,unknown,none,0,no smoking evidence found
+18982,current,high,1,note
+21365,current,high,1,note
+31151,current,high,1,note
+42292,current,high,1,icd_only
+20060,current,high,1,note+icd
+23705,current,high,1,note
+42232,former,high,1,note
+82799,never,high,1,note
+67388,unknown,none,0,no smoking evidence found
+62212,former,high,1,note
+47563,current,high,1,note+icd
+19958,current,high,1,note
+48159,current,high,1,note+icd
+84116,current,high,1,note+icd
+30952,current,high,1,note
+30745,current,high,1,note
+5493,former,high,1,note
+49435,current,high,1,note+icd
+23558,unknown,none,0,no smoking evidence found
+6946,unknown,none,0,no smoking evidence found
+22392,unknown,none,0,no smoking evidence found
+16914,current,high,1,note
+31480,current,high,1,note
+10621,current,high,1,note
+65815,former,high,1,note
+73749,current,high,1,note
+19105,unknown,none,0,no smoking evidence found
+32326,unknown,none,0,no smoking evidence found
+60274,current,high,1,note
+89287,unknown,none,0,no smoking evidence found
+20643,unknown,none,0,no smoking evidence found
+55759,current,high,1,note
+6365,current,high,1,note
+29394,never,high,1,note+icd
+5981,never,high,1,note
+76435,former,high,1,note
+5672,former,high,1,note
+20173,current,high,1,note
+44741,current,high,1,note
+18541,current,high,1,note
+22835,unknown,none,0,no smoking evidence found
+22996,current,high,1,note
+16099,former,high,1,note
+58433,former,high,1,note+icd
+88832,unknown,none,0,no smoking evidence found
+10824,current,high,1,note
+68201,unknown,none,0,no smoking evidence found
+53176,unknown,none,0,no smoking evidence found
+32593,never,high,1,note
+32331,former,high,1,note
+4802,never,high,1,note
+22208,current,high,1,note
+73713,current,high,1,note
+41956,never,high,1,note
+12856,current,high,1,note
+10950,former,high,1,note
+74740,current,high,1,note
+61424,former,high,1,note+icd
+92426,former,high,1,note
+1357,never,high,1,note
+59612,current,high,1,note
+30659,unknown,none,0,no smoking evidence found
+28305,unknown,none,0,no smoking evidence found
+1610,unknown,none,0,no smoking evidence found
+81636,unknown,none,0,no smoking evidence found
+71851,current,high,1,note
+24653,unknown,none,0,no smoking evidence found
+69745,never,high,1,note
+6219,never,high,1,note
+30805,current,high,1,note
+63569,never,high,1,note+icd
+48237,current,high,1,note
+5754,current,high,1,note
+44421,current,high,1,note
+11137,current,high,1,note
+29341,unknown,none,0,no smoking evidence found
+2582,unknown,none,0,no smoking evidence found
+72229,unknown,none,0,no smoking evidence found
+30451,current,high,1,note
+21117,current,high,1,note
+59829,former,high,1,icd_only
+53865,former,high,1,icd_only
+12233,unknown,none,0,no smoking evidence found
+81630,current,high,1,icd_only
+62733,former,high,1,note+icd
+28055,unknown,none,0,no smoking evidence found
+32099,unknown,none,0,no smoking evidence found
+29145,current,high,1,note
+2718,unknown,none,0,no smoking evidence found
+97916,former,high,1,note
+937,unknown,none,0,no smoking evidence found
+68894,current,high,1,note+icd
+1096,current,high,1,note+icd
+15930,unknown,none,0,no smoking evidence found
+14785,never,high,1,note
+11058,unknown,none,0,no smoking evidence found
+18897,unknown,none,0,no smoking evidence found
+25051,current,high,1,note
+84523,former,high,1,note+icd
+22052,former,high,1,note
+31642,current,high,1,note
+79863,former,high,1,note+icd
+79735,unknown,none,0,no smoking evidence found
+89394,former,high,1,note
+6601,current,high,1,note
+98664,current,high,1,note+icd
+7023,former,high,1,note
+11032,current,high,1,note+icd
+21132,current,high,1,note
+20061,never,high,1,note
+17367,unknown,none,0,no smoking evidence found
+70456,former,high,1,note
+6176,unknown,none,0,no smoking evidence found
+29724,never,high,1,note
+17916,current,high,1,note
+27588,unknown,none,0,no smoking evidence found
+40787,former,high,1,note+icd
+28905,never,high,1,note
+28611,current,high,1,note
+75347,current,high,1,note
+1573,unknown,none,0,no smoking evidence found
+48274,never,high,1,note
+1604,unknown,none,0,no smoking evidence found
+31608,never,high,1,note
+31078,unknown,none,0,no smoking evidence found
+14404,former,high,1,note+icd
+76118,unknown,none,0,no smoking evidence found
+29966,never,high,1,note
+77746,former,high,1,note
+16331,current,high,1,note
+9518,unknown,none,0,no smoking evidence found
+2840,unknown,none,0,no smoking evidence found
+18227,current,high,1,note
+17218,current,high,1,note+icd
+17125,current,high,1,note
+11342,current,high,1,note
+26397,current,high,1,note
+32050,current,high,1,note
+49304,unknown,none,0,no smoking evidence found
+71012,unknown,none,0,no smoking evidence found
+7299,unknown,none,0,no smoking evidence found
+26219,former,high,1,note
+22574,current,high,1,note
+67796,former,high,1,note
+4795,current,high,1,note
+50575,current,high,1,note+icd
+25151,never,high,1,note
+1452,unknown,none,0,no smoking evidence found
+159,current,high,1,note
+17931,current,high,1,note+icd
+92346,never,high,1,note
+14828,current,high,1,note
+77816,current,high,1,note
+32436,current,high,1,note
+74392,unknown,none,0,no smoking evidence found
+27019,current,high,1,note
+9954,former,high,1,note
+25579,unknown,none,0,no smoking evidence found
+10469,unknown,none,0,no smoking evidence found
+7105,never,high,1,note
+30031,unknown,none,0,no smoking evidence found
+31382,unknown,none,0,no smoking evidence found
+11027,never,high,1,note
+20008,current,high,1,note
+25590,former,high,1,note
+23350,current,high,1,note
+9247,former,high,1,note
+51384,unknown,none,0,no smoking evidence found
+12377,unknown,none,0,no smoking evidence found
+3425,former,high,1,note
+7718,former,high,1,note
+52974,never,high,1,note
+73843,current,high,1,note
+1477,current,high,1,note+icd
+21319,current,high,1,note
+88212,current,high,1,note
+72997,former,high,1,note
+69447,unknown,none,0,no smoking evidence found
+61835,never,high,1,note
+23701,former,high,1,note+icd
+22812,current,high,1,note
+21081,unknown,none,0,no smoking evidence found
+31654,never,high,1,note
+51091,current,high,1,note+icd
+7512,current,high,1,note
+7814,never,high,1,note
+86561,former,high,1,note
+49615,former,high,1,note
+13024,never,high,1,note
+6083,never,high,1,note
+16605,current,high,1,note
+5256,current,high,1,note
+15404,unknown,none,0,no smoking evidence found
+49453,current,high,1,note+icd
+67967,former,high,1,note+icd
+19837,unknown,none,0,no smoking evidence found
+66736,current,high,1,note+icd
+9626,former,high,1,note
+12024,current,high,1,note
+1331,current,high,1,note
+31171,current,high,1,note
+23680,current,high,1,note+icd
+68024,unknown,none,0,no smoking evidence found
+18718,current,high,1,note
+3518,current,high,1,note
+24958,unknown,none,0,no smoking evidence found
+11422,former,high,1,note
+11008,unknown,none,0,no smoking evidence found
+44146,never,high,1,note
+55369,never,high,1,note
+96741,unknown,none,0,no smoking evidence found
+55971,unknown,none,0,no smoking evidence found
+4158,unknown,none,0,no smoking evidence found
+32453,unknown,none,0,no smoking evidence found
+21645,unknown,none,0,no smoking evidence found
+28429,current,high,1,note
+15644,former,high,1,note
+92281,unknown,none,0,no smoking evidence found
+30864,unknown,none,0,no smoking evidence found
+69272,unknown,none,0,no smoking evidence found
+18617,never,high,1,note
+16320,current,high,1,note
+23641,unknown,none,0,no smoking evidence found
+45788,unknown,none,0,no smoking evidence found
+29378,current,high,1,note
+17531,former,high,1,icd_only
+28828,current,high,1,note
+5592,never,high,1,note
+30496,current,high,1,note
+21792,current,high,1,note
+21754,unknown,none,0,no smoking evidence found
+49226,unknown,none,0,no smoking evidence found
+69158,former,high,1,note
+29837,unknown,none,0,no smoking evidence found
+71332,current,high,1,note
+8897,never,high,1,note
+109,never,high,1,note
+17497,never,high,1,note
+11840,unknown,none,0,no smoking evidence found
+68502,unknown,none,0,no smoking evidence found
+4713,unknown,none,0,no smoking evidence found
+95372,never,high,1,note
+47775,unknown,none,0,no smoking evidence found
+95000,unknown,none,0,no smoking evidence found
+83751,current,high,1,note+icd
+44494,unknown,none,0,no smoking evidence found
+24177,never,high,1,note
+92383,current,high,1,note+icd
+91313,never,high,1,note
+60057,current,high,1,note
+4294,former,high,1,note
+16235,unknown,none,0,no smoking evidence found
+54729,current,high,1,note
+24548,unknown,none,0,no smoking evidence found
+98309,never,high,1,note
+15666,current,high,1,note
+53964,current,high,1,note
+25764,unknown,none,0,no smoking evidence found
+64969,never,high,1,note
+18891,unknown,none,0,no smoking evidence found
+23359,never,high,1,note
+26118,current,high,1,note+icd
+14048,unknown,none,0,no smoking evidence found
+85141,current,high,1,note+icd
+94213,unknown,none,0,no smoking evidence found
+76820,current,high,1,note+icd
+15831,unknown,none,0,no smoking evidence found
+79713,current,high,1,note
+27879,current,high,1,icd_only
+99408,current,high,1,note+icd
+59113,never,high,1,note
+46853,current,high,1,icd_only
+86340,unknown,none,0,no smoking evidence found
+18161,former,high,1,note
+79596,never,high,1,note
+23248,unknown,none,0,no smoking evidence found
+77664,unknown,none,0,no smoking evidence found
+48868,unknown,none,0,no smoking evidence found
+50544,never,high,1,note
+26737,current,conflicting,2,statuses_seen=current/never
+50981,current,high,1,note
+64796,current,high,1,note+icd
+5948,unknown,none,0,no smoking evidence found
+32324,current,high,1,note
+45576,never,high,1,note
+79851,current,high,1,note+icd
+25929,never,high,1,note
+6588,unknown,none,0,no smoking evidence found
+9238,unknown,none,0,no smoking evidence found
+73876,unknown,none,0,no smoking evidence found
+44632,unknown,none,0,no smoking evidence found
+627,current,high,1,note
+96356,never,high,1,note
+590,current,high,1,note
+30064,unknown,none,0,no smoking evidence found
+26092,current,high,1,note
+2423,current,high,1,note
+97181,former,high,1,note
+45124,current,high,1,note
+18285,current,high,1,note
+27743,current,high,1,note
+78263,never,high,1,note
+87428,former,high,1,icd_only
+22687,unknown,none,0,no smoking evidence found
+84187,unknown,none,0,no smoking evidence found
+728,former,high,1,note
+31985,unknown,none,0,no smoking evidence found
+88458,current,high,1,note+icd
+29191,unknown,none,0,no smoking evidence found
+16540,unknown,none,0,no smoking evidence found
+98001,former,high,1,note
+63769,never,high,1,note
+1375,former,high,1,note
+76899,unknown,none,0,no smoking evidence found
+19506,current,high,1,note
+69684,current,high,1,note
+44546,former,high,1,note+icd
+14026,current,high,1,note
+63539,unknown,none,0,no smoking evidence found
+55722,current,high,1,note+icd
+44820,former,high,1,note
+81096,former,high,1,note
+76799,never,high,1,note
+11809,former,high,1,note
+58654,current,high,1,note
+14946,unknown,none,0,no smoking evidence found
+40464,current,high,1,note+icd
+12903,current,high,1,note
+99985,unknown,none,0,no smoking evidence found
+2356,former,high,1,note+icd
+70664,unknown,none,0,no smoking evidence found
+70285,former,high,1,icd_only
+31839,unknown,none,0,no smoking evidence found
+46041,current,high,1,note+icd
+17765,unknown,none,0,no smoking evidence found
+12508,current,high,1,note
+30995,current,high,1,note
+8338,never,high,1,note
+9763,unknown,none,0,no smoking evidence found
+7101,unknown,none,0,no smoking evidence found
+4973,unknown,none,0,no smoking evidence found
+10240,current,high,1,note
+44823,never,high,1,note
+12539,never,high,1,note
+95013,former,high,1,note
+17850,former,high,1,note
+24577,never,high,1,note
+61179,unknown,none,0,no smoking evidence found
+9021,never,high,1,note
+13954,former,high,1,note
+5645,current,high,1,note
+90044,former,high,1,note
+24846,unknown,none,0,no smoking evidence found
+71025,unknown,none,0,no smoking evidence found
+30927,current,high,1,note
+28093,never,high,1,note
+27960,current,high,1,note
+56502,current,high,1,note+icd
+22354,former,high,1,note
+62564,current,high,1,note
+75696,never,high,1,note
+25345,unknown,none,0,no smoking evidence found
+81560,unknown,none,0,no smoking evidence found
+24581,unknown,none,0,no smoking evidence found
+31122,current,high,1,note
+16091,current,high,1,note
+28993,unknown,none,0,no smoking evidence found
+31906,never,high,1,note
+18589,current,high,1,note+icd
+74793,unknown,none,0,no smoking evidence found
+75001,current,high,1,note
+13245,current,high,1,note
+31815,never,high,1,note
+29664,never,high,1,note
+84979,current,high,1,note+icd
+12119,current,high,1,note
+66264,current,high,1,note
+19797,unknown,none,0,no smoking evidence found
+11163,unknown,none,0,no smoking evidence found
+93637,never,high,1,note
+21975,former,high,1,note
+78298,current,high,1,note
+41958,former,high,1,note
+92440,unknown,none,0,no smoking evidence found
+91079,never,high,1,note
+14240,unknown,none,0,no smoking evidence found
+48036,unknown,none,0,no smoking evidence found
+50321,unknown,none,0,no smoking evidence found
+26761,never,high,1,note
+42366,unknown,none,0,no smoking evidence found
+30011,unknown,none,0,no smoking evidence found
+20050,never,high,1,note
+9274,unknown,none,0,no smoking evidence found
+52551,current,high,1,note+icd
+70745,current,high,1,note
+15207,unknown,none,0,no smoking evidence found
+15013,unknown,none,0,no smoking evidence found
+14688,former,high,1,note
+2512,current,high,1,icd_only
+86233,unknown,none,0,no smoking evidence found
+27672,never,high,1,note
+21777,current,high,1,note
+30198,current,high,1,note+icd
+32039,current,high,1,note+icd
+24457,unknown,none,0,no smoking evidence found
+56825,unknown,none,0,no smoking evidence found
+45309,never,high,1,note
+28742,unknown,none,0,no smoking evidence found
+17008,current,high,1,note+icd
+30859,current,high,1,note
+11758,current,high,1,note
+64721,current,high,1,note+icd
+24578,current,high,1,note
+64160,unknown,none,0,no smoking evidence found
+7797,unknown,none,0,no smoking evidence found
+51327,current,high,1,note+icd
+16988,unknown,none,0,no smoking evidence found
+7696,never,high,1,note
+9870,current,high,1,note
+70872,never,high,1,note
+96218,never,high,1,note
+2738,current,high,1,note
+97769,never,high,1,note
+48348,current,high,1,note
+59425,unknown,none,0,no smoking evidence found
+15978,current,high,1,note
+24361,current,high,1,note+icd
+75722,unknown,none,0,no smoking evidence found
+21216,former,high,1,note
+25871,current,high,1,note
+47556,current,high,1,note
+73169,unknown,none,0,no smoking evidence found
+28026,former,high,1,note
+564,former,high,1,note
+12885,current,high,1,note
+30596,never,high,1,note
+2943,former,high,1,note
+62841,unknown,none,0,no smoking evidence found
+7154,never,high,1,note
+49604,current,high,1,icd_only
+7809,never,high,1,note
+63407,never,high,1,note
+72847,current,high,1,note+icd
+8954,current,high,1,note
+11432,current,high,1,note+icd
+14412,current,high,1,note
+7757,current,high,1,icd_only
+963,current,high,1,note
+12830,unknown,none,0,no smoking evidence found
+30754,never,high,1,note
+73087,unknown,none,0,no smoking evidence found
+30616,never,high,1,note
+13928,current,high,1,note
+8381,current,high,1,note
+97868,current,high,1,note+icd
+7959,former,high,1,note+icd
+29862,current,high,1,note+icd
+19256,current,high,1,note
+68907,current,high,1,note+icd
+6930,former,high,1,note
+52002,unknown,none,0,no smoking evidence found
+10939,unknown,none,0,no smoking evidence found
+95182,former,high,1,note
+72297,unknown,none,0,no smoking evidence found
+73958,current,high,1,note+icd
+32286,current,high,1,note
+25609,current,high,1,note
+41024,unknown,none,0,no smoking evidence found
+7708,never,high,1,note
+32448,never,high,1,note
+15964,former,high,1,note
+13330,unknown,none,0,no smoking evidence found
+23765,current,high,1,note
+55746,former,high,1,icd_only
+24953,current,high,1,note+icd
+86872,current,high,1,note
+7470,unknown,none,0,no smoking evidence found
+15011,unknown,none,0,no smoking evidence found
+99461,unknown,none,0,no smoking evidence found
+3482,current,high,1,note
+7534,current,high,1,note
+31185,current,high,1,note
+68477,unknown,none,0,no smoking evidence found
+27179,never,high,1,note
+74886,unknown,none,0,no smoking evidence found
+3728,unknown,none,0,no smoking evidence found
+23037,never,high,1,note
+41067,unknown,none,0,no smoking evidence found
+6352,unknown,none,0,no smoking evidence found
+26506,former,high,1,note+icd
+58692,unknown,none,0,no smoking evidence found
+10615,current,high,1,note
+69890,unknown,none,0,no smoking evidence found
+5242,current,high,1,note
+11154,current,high,1,note
+29364,unknown,none,0,no smoking evidence found
+30463,former,high,1,note+icd
+25338,unknown,none,0,no smoking evidence found
+16752,former,high,1,note
+12976,unknown,none,0,no smoking evidence found
+68127,unknown,none,0,no smoking evidence found
+8560,current,high,1,note
+66974,current,high,1,note
+97672,unknown,none,0,no smoking evidence found
+2071,unknown,none,0,no smoking evidence found
+19983,unknown,none,0,no smoking evidence found
+24787,unknown,none,0,no smoking evidence found
+99777,unknown,none,0,no smoking evidence found
+45781,former,high,1,icd_only
+28050,current,high,1,note
+66720,current,high,1,note
+40177,unknown,none,0,no smoking evidence found
+1606,never,high,1,note
+65894,current,high,1,note+icd
+84914,current,high,1,note+icd
+24199,current,high,1,note
+3818,current,high,1,note
+77589,unknown,none,0,no smoking evidence found
+13045,current,high,1,note
+63563,former,high,1,note+icd
+94046,former,high,1,note
+10246,current,high,1,note
+48189,unknown,none,0,no smoking evidence found
+25780,unknown,none,0,no smoking evidence found
