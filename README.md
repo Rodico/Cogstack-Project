@@ -168,11 +168,11 @@ The repo deliberately excludes, via `.gitignore`:
 ## Repository contents
 
 ```
-notebooks/Analysis.py          full extraction + analysis pipeline
-outputs/patient_smoking_status.csv   the deliverable
-outputs/chart_*.png            figures used in the presentation
-outputs/medcat_mismatch_flowchart.png   the v2/v1 Trainer issue, visualised
-Presentation_Cogstack.pdf                3-slide presentation (methodology, findings, next steps)
+notebooks/Analysis.py - Full extraction + analysis pipeline
+outputs/patient_smoking_status.csv - The deliverable
+outputs/chart_*.png - Figures used in the presentation
+outputs/medcat_mismatch_flowchart.png  - The v2/v1 Trainer issue, visualised
+Presentation_Cogstack.pdf - 3-slide presentation (methodology, findings, next steps)
 README.md
 requirements.txt
 ```
