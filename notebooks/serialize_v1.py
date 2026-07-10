@@ -30,4 +30,4 @@ print("Saving using MedCAT's native serialization protocols...")
 cdb.save(os.path.join(export_dir, "cdb.dat"))
 vocab.save(os.path.join(export_dir, "vocab.dat"))
 
-print("Done! Perfectly structured native legacy files are ready.")
+print("Done!")
