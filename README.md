@@ -4,7 +4,7 @@ Extracting per-patient smoking status from a MIMIC cohort by combining **MedCAT 
 clinical free text** with **structured ICD-9 diagnosis codes**, then reconciling the two
 sources into a single status per patient.
 
-CogStack Forward Deployed Engineer technical task (The accompanying 3-slide presentation is included as Presentation_Cogstack.pdf). 
+CogStack Forward Deployed Engineer technical task (the accompanying 3-slide presentation is included as Presentation_Cogstack.pdf). 
 
 ---
 
